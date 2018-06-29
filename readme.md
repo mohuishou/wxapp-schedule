@@ -1,6 +1,6 @@
 # wxapp-schedule 小程序课程表组件
 
-这是一个使用canvas绘制的小程序课程表，可以用于展示小程序课程表，也可以用于保存分享图]
+wxapp-schedule 是从[We川大](https://github.com/mohuishou/scuplus-wechat)当中抽象出来的课程表图片生成组件，使用canvas绘制
 
 ## Example 
 - example文件夹 [example](example)
