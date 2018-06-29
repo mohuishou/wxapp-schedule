@@ -1,0 +1,4 @@
+<canvas canvas-id="schedule"></canvas>
+<cover-view class="mo-btn op">
+    <cover-view bindtap="save" class="item">保存图片</cover-view>
+</cover-view>

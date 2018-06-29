@@ -1,0 +1,20 @@
+{
+  "name": "wxapp-schedule",
+  "version": "1.0.0",
+  "description": "\"微信小程序课程表canvas组件\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js --out-file ./dist/schedule.js",
+    "dev": "babel index.js -w --out-file ./example/schedule.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"微信小程序",
+    "课程表\""
+  ],
+  "author": "mohuishou",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
