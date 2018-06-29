@@ -2,10 +2,11 @@
 
 wxapp-schedule 是从[We川大](https://github.com/mohuishou/scuplus-wechat)当中抽象出来的课程表图片生成组件，使用canvas绘制
 
+**如果有点帮助的话，别忘了点个star**
+
 ## Example 
 - example文件夹 [example](example)
-直接点击打开代码片段 
-- [wechatide://minicode/3FFtexmB7qFW](wechatide://minicode/3FFtexmB7qFW)
+- 直接点击打开代码片段  [wechatide://minicode/3FFtexmB7qFW](wechatide://minicode/3FFtexmB7qFW)
 
 # install
 直接复制dist文件夹的`schedule.js`到相应使用位置
